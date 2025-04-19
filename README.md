@@ -1,3 +1,6 @@
+# Databse Viewer
+A simple app to view Tables, Data, RL Policies and Run Queries againt your Postgres database.
+
 ## Getting Started
 First, install the deps:
 
